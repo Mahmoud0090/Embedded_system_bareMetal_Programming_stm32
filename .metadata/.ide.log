@@ -3,3 +3,8 @@
 2025-05-08 00:35:18,792 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 0:35:18.788 ERROR Crash dump dir: C:\Users\User\AppData\Local\JxBrowser\7.39.2\CrashReports
 2025-05-08 00:35:18,792 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
 2025-05-08 00:35:18,801 [ERROR] WebApp:398 - JxBrowser engine crashed! Exit code: -2147483645
+2025-05-08 20:15:35,563 [INFO] Activator:176 - 
+
+
+2025-05-08 20:15:35,567 [INFO] Activator:177 - !SESSION log4j initialized
+2025-05-08 20:15:44,428 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
