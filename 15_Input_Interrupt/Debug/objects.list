@@ -1,4 +1,5 @@
 "./Src/adc.o"
+"./Src/exti.o"
 "./Src/main.o"
 "./Src/syscalls.o"
 "./Src/sysmem.o"

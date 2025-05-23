@@ -1,4 +1,4 @@
-Src/main.o: ../Src/main.c \
+Src/exti.o: ../Src/exti.c ../Inc/exti.h \
  C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
  C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h \
  C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/core_cm4.h \
@@ -6,8 +6,8 @@ Src/main.o: ../Src/main.c \
  C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/cmsis_compiler.h \
  C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/cmsis_gcc.h \
  C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/mpu_armv7.h \
- C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
- ../Inc/uart.h ../Inc/adc.h ../Inc/systick.h ../Inc/tim.h ../Inc/exti.h
+ C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+../Inc/exti.h:
 C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
 C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h:
 C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/core_cm4.h:
@@ -16,8 +16,3 @@ C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/cmsis_compiler.h:
 C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/cmsis_gcc.h:
 C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/mpu_armv7.h:
 C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
-../Inc/uart.h:
-../Inc/adc.h:
-../Inc/systick.h:
-../Inc/tim.h:
-../Inc/exti.h:
