@@ -1,0 +1,3 @@
+C:/Bare_metal_C_programming/chip_headers/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Src/tim.c:8:6:tim2_1Hz_init	1
+../Src/tim.c:22:6:tim2_1Hz_interrupt_init	1
